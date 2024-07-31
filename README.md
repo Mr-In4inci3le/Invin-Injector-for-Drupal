@@ -1,0 +1,2 @@
+# Invin Injector for Drupal
+ Invin Injector is a versatile Drupal module designed to facilitate advanced file uploads and command executions directly from a Drupal site. This module is aimed at security professionals and penetration testers who need to perform detailed security assessments or manage systems through Drupal. It provides a seamless way to upload files and execute commands based on the operating system, streamlining the process of exploiting and testing Drupal sites.
